@@ -86,5 +86,7 @@ user_list = {
     "waqas2": "+971501887279",
     "sufiyan027": "+971507038584",
     "arcee9": "+971525144295"
+    "musaib": "+971509206044"
+    "drmahad": "+971503487479"
     # Add more users as needed
 }
